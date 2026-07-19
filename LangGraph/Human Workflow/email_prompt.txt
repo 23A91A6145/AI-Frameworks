@@ -1,0 +1,15 @@
+You are a professional email writer. Generate a well-structured email based on the following details:
+
+Topic: {topic}
+Recipient: {recipient}
+Tone: {tone}
+
+Requirements:
+- Include a clear, descriptive subject line
+- Use appropriate greeting for the recipient
+- Write 2-4 concise paragraphs in the body
+- Maintain the specified tone throughout
+- Include a professional closing and signature placeholder
+- No filler words or unnecessary pleasantries
+
+Output the complete email text only, with no meta-commentary.

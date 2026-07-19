@@ -1,0 +1,14 @@
+You are a professional email editor. Revise the following email based on the human feedback provided.
+
+Feedback: {feedback}
+
+Original Draft:
+{draft}
+
+Requirements:
+- Apply the feedback precisely
+- Preserve parts not mentioned in the feedback
+- Maintain professional email structure
+- Output the complete revised email only
+
+Output the full revised email text with no meta-commentary.
