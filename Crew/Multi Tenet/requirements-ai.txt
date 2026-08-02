@@ -1,0 +1,4 @@
+# CrewAI hierarchical crew — optional, requires Python <= 3.13.
+# Install with:  bash scripts/setup-ai.sh   (creates a .venv312 environment)
+# The platform runs fine without it using the fallback / direct-LLM engines.
+crewai==1.15.9
